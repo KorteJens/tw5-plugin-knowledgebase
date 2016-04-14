@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/m2m/kb",
+    "description": "a knowledge base for reasearch, conceptions and writing",
+    "author": "Jens Korte",
+    "version": "0.0.1",
+    "core-version": ">=5.0.8",
+    "source": "https://github.com/KorteJens/tw5-plugin-knowledgebase",
+    "plugin-type": "plugin"
+}
